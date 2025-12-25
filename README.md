@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charway1&label=Profile%20views&color=0e75b6&style=flat" alt="charway1" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Figma and HTML/CSS**
 
-- 💬 Ask me about **Java, React Native**
+- 💬 Ask me about **Java, React Native, Figma, HTML, Python**
 
 - 📫 How to reach me **mtcwayo2011@gmail.com**
 
